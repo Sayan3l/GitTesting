@@ -1,5 +1,8 @@
 def add (number1, number2):
-    #function that add 2 numbers together and return the answer
+    #function that adds 2 numbers together and return the answer
     return number1 + number2
 
+def deduction (number1, number2):
+    #function that substracts 2 numbers together and return the answer
+    return number1 - number2
 
